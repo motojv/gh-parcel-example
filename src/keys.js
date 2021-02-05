@@ -1,8 +1,10 @@
 export const firebaseKeys = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESSAGING_SENDER_ID,
-  appId: process.env.APP_ID
+  apiKey: "AIzaSyBRoRK80kuPVYaVN_Bi0Co_Wdj-ZfyjkLA",
+  authDomain: "grilling-squirrels.firebaseapp.com",
+  projectId: "grilling-squirrels",
+  storageBucket: "grilling-squirrels.appspot.com",
+  messagingSenderId: "916436230596",
+  appId: "1:916436230596:web:dccbcbc4795434e5b6c491"
 };
+
+
